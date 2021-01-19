@@ -325,6 +325,7 @@
 	#body.contact div.body div div img{
 		float: none;
 		margin: 0 auto;
+		display: none;
 	}
 	#body.contact div.body div div h1, #body.contact div.body div div p{
 		padding: 0 0 0 4%;
